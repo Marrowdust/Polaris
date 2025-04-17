@@ -5,7 +5,7 @@ Ai to-do list creation
 mood based planning
 pomodoro timer
 LLm chat
-Early access available!
+Ongoing development
 backend and logic made with rust
 ui\ux with flutter and dart
 LLMs used: gemini api
