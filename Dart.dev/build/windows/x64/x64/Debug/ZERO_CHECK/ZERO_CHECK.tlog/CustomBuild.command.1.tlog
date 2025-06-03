@@ -1,0 +1,10 @@
+^D:\GITHUB\POLARIS\BUILD\WINDOWS\X64\CMAKEFILES\9236D1F61412D643BBFD286FC62C5667\GENERATE.STAMP.RULE
+setlocal
+D:\a\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/Github/Polaris/windows -BD:/Github/Polaris/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Github/Polaris/build/windows/x64/chat1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

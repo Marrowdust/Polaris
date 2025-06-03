@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/5591dd6cefc3be2c2934899397cd4706/nuget-populate.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/c9422605648acf0046988680abdf8e9b/nuget-populate-complete.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-build.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-configure.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-copyfile.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-download.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-install.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-mkdir.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-patch.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-test.rule
+D:/Github/Polaris/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/d5e130493c25e09705e98e0b2be6a6c3/nuget-populate-update.rule

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Github\Polaris\build\windows\x64\CMakeFiles\72d7e1d6237402af15e48514528f071d\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7DE57CC1-C2F9-37EE-82DF-89BBE2424E3C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

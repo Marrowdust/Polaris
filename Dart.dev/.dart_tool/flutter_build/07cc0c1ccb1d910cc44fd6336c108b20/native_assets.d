@@ -1,0 +1,1 @@
+ D:\\Github\\Polaris\\.dart_tool\\flutter_build\\07cc0c1ccb1d910cc44fd6336c108b20\\native_assets.yaml: 

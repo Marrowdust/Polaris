@@ -1,0 +1,17 @@
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/Github/Polaris/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/Github/Polaris/build/windows/x64/runner/Debug/audioplayers_windows_plugin.dll
+D:/Github/Polaris/build/windows/x64/runner/Debug/bitsdojo_window_windows_plugin.lib
+D:/Github/Polaris/build/windows/x64/runner/Debug/file_selector_windows_plugin.dll
+D:/Github/Polaris/build/windows/x64/runner/Debug/local_notifier_plugin.dll
+D:/Github/Polaris/build/windows/x64/runner/Debug/url_launcher_windows_plugin.dll
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/packages/dash_chat_2/assets/placeholder.png
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/packages/dash_chat_2/assets/profile_placeholder.png
+D:/Github/Polaris/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

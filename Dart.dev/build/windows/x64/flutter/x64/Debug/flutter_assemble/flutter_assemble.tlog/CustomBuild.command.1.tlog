@@ -1,0 +1,28 @@
+^D:\GITHUB\POLARIS\BUILD\WINDOWS\X64\CMAKEFILES\F09E8FA338458663756712F317FE357C\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+D:\a\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -E env FLUTTER_ROOT=D:\forandroid\flutter PROJECT_DIR=D:\Github\Polaris FLUTTER_ROOT=D:\forandroid\flutter FLUTTER_EPHEMERAL_DIR=D:\Github\Polaris\windows\flutter\ephemeral PROJECT_DIR=D:\Github\Polaris FLUTTER_TARGET=D:\Github\Polaris\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\Github\Polaris\.dart_tool\package_config.json D:/forandroid/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GITHUB\POLARIS\BUILD\WINDOWS\X64\CMAKEFILES\E9424504C6195A208596631C49A4F9AC\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\GITHUB\POLARIS\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+D:\a\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SD:/Github/Polaris/windows -BD:/Github/Polaris/build/windows/x64 --check-stamp-file D:/Github/Polaris/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
